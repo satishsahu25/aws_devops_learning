@@ -1,0 +1,10 @@
+2023-10-27 10:15:32 UTC [INFO] vm-instance-12345: User 'user123' initiated SSH connection from IP '203.0.113.5'.
+2023-10-27 10:16:05 UTC [WARN] vm-instance-12345: High CPU utilization (95%) detected. Process 'application-abc' consuming excessive resources.
+2023-10-27 10:16:10 UTC [ERROR] vm-instance-12345: Disk write error on /dev/xvda1. I/O error: Input/output error.
+2023-10-27 10:17:45 UTC [INFO] vm-instance-12345: Security update installation completed. Packages updated: kernel-5.15.0, openssh-server, systemd.
+2023-10-27 10:20:00 UTC [DEBUG] vm-instance-12345: Monitoring service 'network-service' heartbeat received.
+2023-10-27 10:25:22 UTC [WARN] vm-instance-12345: Potential intrusion attempt detected. Multiple failed login attempts from IP '198.51.100.10'.
+2023-10-27 10:30:10 UTC [INFO] vm-instance-12345: Instance backup initiated. Snapshot ID: snap-67890.
+2023-10-27 10:30:15 UTC [CRITICAL] vm-instance-12345: Application 'application-xyz' crashed. Exit code: 139 (Segmentation fault).
+2023-10-27 10:35:00 UTC [INFO] vm-instance-12345: Instance reboot initiated by system.
+2023-10-27 10:36:20 UTC [INFO] vm-instance-12345: Instance successfully started.
